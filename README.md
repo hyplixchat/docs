@@ -17,7 +17,7 @@
   
 ## Licensing
   All projects by the hyplix team are mainly licensed with the GNU General Public License 3.0 which can be found [here]([./api/api.md](https://www.gnu.org/licenses/gpl-3.0.txt)).
-## credits
+## Credits
   ### [MCorange](https://github.com/MCorange99)
    - **Frontend**(js)  
        The actual website, making it look nice or at least as good as he can make it.
