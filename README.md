@@ -1,9 +1,20 @@
 # HyplixChat documentation  
 
 ## API
-  Documentation for the api can be found [here](./api/api.md).
+  The full documentation for the api can be found [here](./api/api.md).
+  |   Endpoints                        |  Actions                                                  |
+  |------------------------------------|-----------------------------------------------------------|
+  | **/auth/login**                    |  Login to an existing account.                            |
+  | **/auth/register**                 |  Register a new account.                                  |
+  | **/auth/changepassword**           |  Change the password to an existing user.                 |
+  | **/channels/global/messages**      |  Get all of the messages in the global chat.              |
+  | **/channels/global/messages/{id}** |  Delete a message with the supplied id in global chat.    |
+  | **/channels/global/text**          |  Post a message of the type text.                         |
+  | **/users/me**                      |  Get info of the currently logged in account.             |
+  | **/users/{id}**                    |  Get info of the account that has the supplied id.        | 
 ## cli-tool
-  Documentation for the cli-tool can be found [here](./cli-tool/cli-tool.md)
+  The full documentation for the cli-tool can be found [here](./cli-tool/cli-tool.md)
+  
 ## Licensing
   All projects by the hyplix team are mainly licensed with the GNU General Public License 3.0 which can be found [here]([./api/api.md](https://www.gnu.org/licenses/gpl-3.0.txt)).
 ## credits
