@@ -1,2 +1,0 @@
-# cli-tool docs
-# TBD
