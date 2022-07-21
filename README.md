@@ -34,7 +34,7 @@
    - **Security**(Hosting)
        while Colderry is making sure the code is secure and without bugs, MCorange is making sure noone can hack the Server,
        hardening the machine, looking out for any ddos atacks.
-   - **Documentiation**
+   - **Documentiation**  
        Making docs is hard but realy usefull for developers and users!
          
        
@@ -46,5 +46,5 @@
    - **Security**  
        From making sure your messages are safe, stopping weirdos from reading your messages, 
        to fixing simple mistakes like leaving sensitive info in the code. This man is making sure all of us are safe.
-   - **Documentiation**
+   - **Documentiation**  
        Making docs is hard but realy usefull for developers and users!
