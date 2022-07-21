@@ -30,7 +30,7 @@ function sidebar() {
 			text: "CLI Tool",
 			collapsible: true,
 			items: [
-				{ text: "Rust", link: "/cli-tool/rust"}
+				{ text: "NodeJS", link: "/cli-tool/nodejs"}
 			]
 		},
 		{
