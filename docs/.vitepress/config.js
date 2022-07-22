@@ -40,6 +40,15 @@ function sidebar() {
 				{ text: "Global Channel", link: "/resources/global-channel.md"},
 				{ text: "Users", link: "/resources/users.md"}
 			]
+		},
+		{
+			text: "WebSocket",
+			collapsible: true,
+			items: [
+				{ text: "Gateway", link: "/websocket/gateway.md"},
+				{ text: "Events", link: "/websocket/events.md"},
+				{ text: "OP Codes", link: "/websocket/opcodes.md"}
+			]
 		}
 	]
 }
