@@ -6,7 +6,7 @@ module.exports = {
 		sidebar: sidebar(),
 
 		editLink: {
-			pattern: "https://github.com/hyplixchat/docs/:path",
+			pattern: "https://github.com/kekwchat/docs/:path",
 			text: "Edit this page on Github"
 		},
 
