@@ -1,7 +1,3 @@
----
-lastUpdated: true
----
-
 # Getting Started
 If you came to our API documentation, then it means you are really interested in our app. We worked hard and bought you this documentation. Go on, we hope it helps you out.
 
